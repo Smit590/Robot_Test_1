@@ -26,7 +26,6 @@
 |    | Set Global Variable | ${INFRA} |
 
 
-
 | *** Keywords *** |
 
 | Infrastructure |

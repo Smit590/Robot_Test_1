@@ -20,7 +20,7 @@ Infra_log, current_dir, subdir = ['', '', '']
 # 4. now get infrastructure of each im & bc & powerbay present from the map location in step 2. And print each of this property.
 # 5. In step 3 if rack infrastructure shows 'ERROR' test fails and continue test for number of iterations (defined by user).
 
-#################################################################################################################
+##################################################################################################################
 
 class Infrastructure_Check:
     def __init__(self):

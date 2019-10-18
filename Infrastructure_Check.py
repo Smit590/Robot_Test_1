@@ -3,7 +3,7 @@ import socket, datetime, telnetlib, getopt
 import traceback
 
 # from robot.libraries.BuiltIn import BuiltIn
-#commi
+
 
 
 BC_IpAddress_map = []

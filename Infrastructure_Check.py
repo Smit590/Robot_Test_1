@@ -3,7 +3,7 @@ import socket, datetime, telnetlib, getopt
 import traceback
 
 # from robot.libraries.BuiltIn import BuiltIn
-#commit
+
 
 BC_IpAddress_map = []
 PowerBay_Num_map = []

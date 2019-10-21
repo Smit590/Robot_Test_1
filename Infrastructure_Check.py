@@ -14,7 +14,7 @@ Infra_log, current_dir, subdir = ['', '', '']
 #################################################################################################################
 ####################################Steps followed for this test script##########################################
 #################################################################################################################
-# 1. login to MC.
+## 1. login to MC.
 # 2. get the present bc & powerbay map locations.
 # 3. get rack infrastructure.
 # 4. now get infrastructure of each im & bc & powerbay present from the map location in step 2. And print each of this property.

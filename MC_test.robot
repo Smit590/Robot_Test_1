@@ -21,7 +21,7 @@
 | Infrastructure_Test |
 |	 | [Tags] | Infrastructure_Test |
 |    | ${INFRA}=     | Infrastructure | ${MC_IP} | ${Loop} |  ${USER_NAME} | ${PASSWORD} |
-|    | Run Keyword If | '${INFRA}' != 'G5'  and  '${INFRA}' != 'G5.5' | FAIL |
+|    | Run Keyword If | '${INFRA}' == 'G5'  and  '${INFRA}' == 'G5.5' | FAIL |
 |    | Log | ${INFRA} |
 |    | Set Global Variable | ${INFRA} |
 

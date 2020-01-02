@@ -1,6 +1,6 @@
 
 | *** Settings *** |
-| Documentation  | This is the v1 test of G5/G5.5 FW release using telent protocol. |
+| Documentation  | This is the v1 test of G5/G5.5 FW release using telent protocol.! |
 | Library        | Infrastructure_Check.py |
 
 | *** Variables *** |
